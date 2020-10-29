@@ -1,4 +1,19 @@
-52.217.12.148 eos-cloudsaves-live.s3.amazonaws.com@@ -1,3 +1,204 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+# For example:
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
 52.193.111.178 codeload.github.com #UHE_
 52.69.239.207 api.github.com #UHE_
 52.216.25.124 github-production-release-asset-2e65be.s3.amazonaws.com #UHE_
@@ -98,14 +113,6 @@
 54.165.140.85 www.epicgames.com
 3.228.135.99 www.epicgames.com
 54.209.235.205 www.epicgames.com
-3.211.39.2 www.epicgames.com
-34.192.58.105 www.epicgames.com
-35.170.146.39 www.epicgames.com
-35.171.111.169 www.epicgames.com
-35.173.53.168 www.epicgames.com
-52.3.106.58 www.epicgames.com
-52.55.72.208 www.epicgames.com
-54.159.211.131 www.epicgames.com
 
 119.28.36.181 graphql.epicgames.com
 184.73.213.240 graphql.epicgames.com
@@ -118,7 +125,6 @@
 50.19.71.248 graphql.epicgames.com
 34.227.44.230 graphql.epicgames.com
 18.208.92.83 graphql.epicgames.com
-
 52.216.77.180 eos-cloudsaves-live.s3.amazonaws.com
 52.217.1.20 eos-cloudsaves-live.s3.amazonaws.com
 52.216.109.227 eos-cloudsaves-live.s3.amazonaws.com
@@ -203,3 +209,23 @@
 52.217.12.148 eos-cloudsaves-live.s3.amazonaws.com
 52.217.69.236 eos-cloudsaves-live.s3.amazonaws.com
 52.216.152.76 eos-cloudsaves-live.s3.amazonaws.com
+52.217.89.108 eos-cloudsaves-live.s3.amazonaws.com
+52.216.245.44 eos-cloudsaves-live.s3.amazonaws.com
+52.216.242.92 eos-cloudsaves-live.s3.amazonaws.com
+52.216.177.131 eos-cloudsaves-live.s3.amazonaws.com
+52.216.143.212 eos-cloudsaves-live.s3.amazonaws.com
+52.217.90.172 eos-cloudsaves-live.s3.amazonaws.com
+52.217.39.92 eos-cloudsaves-live.s3.amazonaws.com
+52.216.161.195 eos-cloudsaves-live.s3.amazonaws.com
+52.217.89.148 eos-cloudsaves-live.s3.amazonaws.com
+#android更新
+203.208.40.97 dl.google.com
+203.208.41.97 dl-ssl.google.com
+203.208.41.65 dl.google.com
+#YOU NEED
+104.31.74.55 youneed.win
+104.31.75.55 youneed.win
+172.67.212.8 youneed.win
+2606:4700:3031::681f:4b37 youneed.win
+2606:4700:3033::681f:4a37 youneed.win
+2606:4700:3037::ac43:d408 youneed.win
