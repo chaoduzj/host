@@ -1,7 +1,18 @@
 
 #https://raw.githubusercontent.com/chaoduzj/host/main/hosts
 #https://raw.fastgit.org/chaoduzj/host/main/hosts
-
+#android更新
+203.208.40.97 dl.google.com
+203.208.41.97 dl-ssl.google.com
+203.208.41.65 dl.google.com
+#YOU NEED
+104.31.74.55 youneed.win
+104.31.75.55 youneed.win
+172.67.212.8 youneed.win
+2606:4700:3031::681f:4b37 youneed.win
+2606:4700:3033::681f:4a37 youneed.win
+2606:4700:3037::ac43:d408 youneed.win
+#github
 52.193.111.178 codeload.github.com #UHE_
 52.69.239.207 api.github.com #UHE_
 52.216.25.124 github-production-release-asset-2e65be.s3.amazonaws.com #UHE_
@@ -10,7 +21,7 @@
 52.216.25.124 github-com.s3.amazonaws.com #UHE_
 52.216.25.124 github-production-repository-file-5c1aeb.s3.amazonaws.com #UHE_
 52.69.186.44 github.com #UHE_
-180.101.217.196 epicgames-download1-1251447533.file.myqcloud.com #UHE_
+#discord
 104.16.59.5 discord.com #UHE_
 104.16.55.111 support.discordapp.com #UHE_
 104.16.59.5 discordapp.com #UHE_
@@ -22,8 +33,10 @@
 104.16.59.5 images-ext-2.discordapp.net #UHE_
 104.16.59.5 images-ext-1.discordapp.net #UHE_
 104.16.59.5 discordcdn.com #UHE_
+#epicgames
 117.28.245.88 datarouter.ol.epicgames.com #UHE_
 117.28.245.88 lightswitch-public-service-prod06.ol.epicgames.com #UHE_
+180.101.217.196 epicgames-download1-1251447533.file.myqcloud.com #UHE_
 117.28.245.88 www.epicgames.com #UHE_
 117.28.245.88 api.epicgames.dev #UHE_
 117.28.245.88 egp-idsoc-proxy-prod.ol.epicgames.com #UHE_
@@ -101,7 +114,6 @@
 54.165.140.85 www.epicgames.com
 3.228.135.99 www.epicgames.com
 54.209.235.205 www.epicgames.com
-
 119.28.36.181 graphql.epicgames.com
 184.73.213.240 graphql.epicgames.com
 52.1.23.110 graphql.epicgames.com
@@ -206,14 +218,3 @@
 52.217.39.92 eos-cloudsaves-live.s3.amazonaws.com
 52.216.161.195 eos-cloudsaves-live.s3.amazonaws.com
 52.217.89.148 eos-cloudsaves-live.s3.amazonaws.com
-#android更新
-203.208.40.97 dl.google.com
-203.208.41.97 dl-ssl.google.com
-203.208.41.65 dl.google.com
-#YOU NEED
-104.31.74.55 youneed.win
-104.31.75.55 youneed.win
-172.67.212.8 youneed.win
-2606:4700:3031::681f:4b37 youneed.win
-2606:4700:3033::681f:4a37 youneed.win
-2606:4700:3037::ac43:d408 youneed.win
