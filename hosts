@@ -50,15 +50,6 @@
 2606:4700:3031::681f:4b37 youneed.win
 2606:4700:3033::681f:4a37 youneed.win
 2606:4700:3037::ac43:d408 youneed.win
-#      github
-52.193.111.178 codeload.github.com #UHE_
-52.69.239.207 api.github.com #UHE_
-52.216.25.124 github-production-release-asset-2e65be.s3.amazonaws.com #UHE_
-52.216.25.124 github-production-user-asset-6210df.s3.amazonaws.com #UHE_
-52.216.25.124 github-cloud.s3.amazonaws.com #UHE_
-52.216.25.124 github-com.s3.amazonaws.com #UHE_
-52.216.25.124 github-production-repository-file-5c1aeb.s3.amazonaws.com #UHE_
-52.69.186.44 github.com #UHE_
 #     discord
 104.16.59.5 discord.com #UHE_
 104.16.55.111 support.discordapp.com #UHE_
