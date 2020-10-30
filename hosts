@@ -1,8 +1,7 @@
-<<<<<<< Updated upstream
-＃https ://raw.githubusercontent.com/chaoduzj/host/main/hosts
+
+#https://raw.githubusercontent.com/chaoduzj/host/main/hosts
 #https://raw.fastgit.org/chaoduzj/host/main/hosts
-=======
->>>>>>> Stashed changes
+
 52.193.111.178 codeload.github.com #UHE_
 52.69.239.207 api.github.com #UHE_
 52.216.25.124 github-production-release-asset-2e65be.s3.amazonaws.com #UHE_
@@ -211,7 +210,7 @@
 203.208.40.97 dl.google.com
 203.208.41.97 dl-ssl.google.com
 203.208.41.65 dl.google.com
-#YOU need
+#YOU NEED
 104.31.74.55 youneed.win
 104.31.75.55 youneed.win
 172.67.212.8 youneed.win
