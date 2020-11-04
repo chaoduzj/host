@@ -1,5 +1,9 @@
-# https://raw.githubusercontent.com/chaoduzj/host/main/hosts
++# https://raw.githubusercontent.com/chaoduzj/host/main/hosts
 # https://raw.fastgit.org/chaoduzj/host/main/hosts
+#      fortnitedb
+104.27.176.5 fortnitedb.com
+104.27.177.5 fortnitedb.com
+172.67.136.84 fortnitedb.com
 #       android更新
 203.208.40.97 dl.google.com
 203.208.41.97 dl-ssl.google.com
