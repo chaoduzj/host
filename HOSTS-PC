@@ -46,7 +46,7 @@
 #YOU NEED
 104.31.74.55 youneed.win
 104.31.75.55 youneed.win
-@ -41,6 +79,232 @@
+#epic
 117.28.245.88 api.epicgames.dev #UHE_
 117.28.245.88 egp-idsoc-proxy-prod.ol.epicgames.com #UHE_
 117.28.245.88 ecommerceintegration-public-service-ecomprod02.ol.epicgames.com #UHE_
@@ -275,11 +275,9 @@
 54.91.23.58 https://ue-launcher-website-prod.ol.epicgames.com
 54.208.250.196 https://ue-launcher-website-prod.ol.epicgames.com
 52.5.45.243 https://ue-launcher-website-prod.ol.epicgames.com/
-
 117.28.245.88 eos-cloudsaves-live.s3.amazonaws.com #UHE_
 182.242.141.109 epicgames-download1-1251447533.file.myqcloud.com
 58.215.147.199 epicgames-download1-1251447533.file.myqcloud.com
-@ -92,129 +356,212 @@
 59.83.218.227 epicgames-download1-1251447533.file.myqcloud.com
 59.83.218.220  epicgames-download1-1251447533.file.myqcloud.com
 117.28.245.88 datastorage-public-service-liveegs.live.use1a.on.epicgames.com #UHE_
