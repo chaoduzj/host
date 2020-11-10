@@ -1,5 +1,12 @@
 #https://github.com/chaoduzj/host/blob/main/HOSTS-PC
 #https://raw.fastgit.org/chaoduzj/host/main/HOSTS-PC
+#greasyfork.org
+45.33.37.174 greasyfork.org
+ns1.linode.com greasyfork.org
+ns2.linode.com greasyfork.org
+ns3.linode.com greasyfork.org
+ns4.linode.com greasyfork.org
+ns5.linode.com greasyfork.org
 #android更新
 203.208.40.97 dl.google.com
 203.208.41.97 dl-ssl.google.com
