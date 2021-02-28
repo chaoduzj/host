@@ -3,7 +3,10 @@
 #greasyfork.org
 45.33.37.174 greasyfork.org52.216.113.139 github-production-release-asset-2e65be.s3.amazonaws.com
 
-
+#迅雷
+127.0.0.1 hub5btmain.sandai.net
+127.0.0.1 hub5emu.sandai.net
+127.0.0.1 upgrade.xl9.xunlei.com
 # fortnitedb.com
 104.27.176.5 https://fortnitedb.com/
 104.27.177.5 https://fortnitedb.com/
