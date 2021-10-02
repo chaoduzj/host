@@ -1,38 +1,9 @@
 #https://github.com/chaoduzj/host/blob/main/HOSTS-PC
 #https://raw.fastgit.org/chaoduzj/host/main/HOSTS-PC
 #星际战甲#
-#反向代理#
-117.28.245.88 api.warframe.com
-124.108.22.138 api.warframe.com
-92.38.149.175 api.warframe.com
-140.238.35.210 api.warframe.com
+205.185.216.42 content.warframe.com
 
-#游戏更新(用完删)#
-#173.245.218.104 content.warframe.com
-#173.245.218.101 content.warframe.com
-#69.16.175.10 content.warframe.com
-#205.185.216.10 content.warframe.com
-#Warframe API 解决更新失败/加快登陆/结算/其他操作#
-223.119.138.205 origin.warframe.com
-223.119.138.205 api.warframe.com
-184.27.169.13 origin.warframe.com
-184.27.169.13 api.warframe.com
-23.9.47.118 origin.warframe.com
-23.9.47.118 api.warframe.com
-23.74.133.167 origin.warframe.com
-23.74.133.167 api.warframe.com
-184.30.171.59 origin.warframe.com
-184.30.171.59 api.warframe.com
-104.126.22.203 origin.warframe.com
-104.126.22.203 api.warframe.com
-23.64.183.161 origin.warframe.com
-23.64.183.161 api.warframe.com
-23.41.68.161 origin.warframe.com
-23.41.68.161 api.warframe.com
-23.76.76.24 origin.warframe.com
-23.76.76.24 api.warframe.com
-184.84.52.82 origin.warframe.com
-184.84.52.82 api.warframe.com
+
 #greasyfork.org
 45.33.37.174 greasyfork.org52.216.113.139 github-production-release-asset-2e65be.s3.amazonaws.com
 #微软
