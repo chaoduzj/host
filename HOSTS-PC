@@ -3,7 +3,8 @@
 #星际战甲#
 205.185.216.42 content.warframe.com
 
-
+#twitch.tv
+104.31.143.88 twitch.tv
 #greasyfork.org
 45.33.37.174 greasyfork.org52.216.113.139 github-production-release-asset-2e65be.s3.amazonaws.com
 #微软
@@ -25,24 +26,8 @@
 104.26.5.65 fortnitedb.com
 2606:4700:20::681a:541 fortnitedb.com
 #GitHub
-52.216.144.219 github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.144.219 github-production-user-asset-6210df.s3.amazonaws.com
-52.216.144.219 github-cloud.s3.amazonaws.com
-52.216.144.219 github-com.s3.amazonaws.com
-52.216.144.219 github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.113.139 github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.113.139 github-production-user-asset-6210df.s3.amazonaws.com
-52.216.113.139 github-cloud.s3.amazonaws.com
-52.216.113.139 github-com.s3.amazonaws.com
-52.216.113.139 github-production-repository-file-5c1aeb.s3.amazonaws.com
-13.112.159.149 codeload.github.com
-52.192.72.89 github.com
-13.114.40.48 github.com
-192.30.255.112 github.com
-18.179.245.253 api.github.com
-192.30.255.117 api.github.com
-192.30.255.116 api.github.com
-192.30.255.118 gist.github.com
+#浏览器中打开DNS查询网站http://tool.chinaz.com/dns,
+#输入github.com 选择TTL值小的IP地址
 #android更新
 113.108.239.225 dl.google.com
 180.163.151.161 dl.google.com
@@ -92,50 +77,8 @@
 142.250.206.238 dl.google.com
 172.217.13.174 dl.google.com
 #YOU NEED
-108.160.170.51 youneed.win
-104.244.46.21 youneed.win
-31.13.65.18 youneed.win
-104.23.125.189 youneed.win
-108.160.167.147 youneed.win
-128.121.243.228 youneed.win
-104.244.43.248 youneed.win
-67.228.235.91 youneed.win
-157.240.17.14 youneed.win
-199.96.62.75 youneed.win
-23.225.141.210 youneed.win
-157.240.12.5 youneed.win
-103.240.182.55 youneed.win
-208.101.60.87 youneed.win
-31.13.85.34 youneed.win
-107.181.166.244 youneed.win
-104.244.43.234 youneed.win
-157.240.8.41 youneed.win
-69.171.229.11 youneed.win
-31.13.79.17 youneed.win
-108.160.169.178 youneed.win
-31.13.91.6 youneed.win
-172.67.212.8 youneed.win
-157.240.7.8 youneed.win
-69.171.232.21 youneed.win
-69.171.230.18 youneed.win
-52.175.9.80 youneed.win
-104.244.43.182 youneed.win
-31.13.64.33 youneed.win
-69.171.239.11 youneed.win
-174.36.196.242 youneed.win
-162.125.18.129 youneed.win
-147.75.95.72 youneed.win
-202.160.128.16 youneed.win
-69.171.237.16 youneed.win
-192.133.77.133 youneed.win
-31.13.85.8 youneed.win
-31.13.69.33 youneed.win
-185.45.6.103 youneed.win
-31.13.90.33 youneed.win
-31.13.75.17 youneed.win
-31.13.82.23 youneed.win
-104.21.16.115 youneed.win
-31.13.77.55 youneed.win
+104.21.80.217 youneed.win
+104.21.80.217 www.youneed.win
 #epic#
 222.186.54.61 cdn1-epicgames-1251447533.file.myqcloud.com
 222.186.54.61 cdn2-unrealengine-1251447533.file.myqcloud.com
